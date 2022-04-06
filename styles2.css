@@ -1,0 +1,23 @@
+h1{
+    color:red
+}
+body{
+
+    background-image: url("file:///C:/Users/Shaik%20Asif/Downloads/diaz.jpg");
+    background-position: right top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: pink;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+th, td {
+    background-color: aqua;
+   
+}
+caption{
+    color:red;
+}

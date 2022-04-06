@@ -9,3 +9,6 @@ function thenFunction() {
     document.getElementById("demo1").innerHTML = "Hello!";
     document.getElementById("demo2").innerHTML = "Nope!";
 }
+var cars = [["Audi", "VW"], [97,98]];
+cars.push("BMW");
+console.log(cars);
