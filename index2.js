@@ -9,4 +9,6 @@ function Wrestler(){
     document.getElementById("demo2").innerHTML = "WRESTLER!!";
 
 }
-console.log(demo2);
+let text = "Nate Diaz";
+document.getElementById("demo4").innerHTML = text;
+document.getElementById("demo5").innerHTML = "Length of the string is " +text.length+".";
